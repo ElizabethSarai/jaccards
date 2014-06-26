@@ -1,0 +1,5 @@
+1 la manzana es una fruta exotica
+2 la pera es una fruta tradicional
+3 el toro es hermoso
+4 el lobo es feroz
+5 la sandia es una fruta exotica
